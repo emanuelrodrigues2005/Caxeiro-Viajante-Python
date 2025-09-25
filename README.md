@@ -88,3 +88,24 @@ Esta abordagem, também conhecida como heurística do "vizinho mais próximo", c
     ```
 
 ## Estrutura do Projeto
+```
+.
+├── LICENSE
+├── README.md
+└── src
+├── backtracking_approach.py  # Implementação com Backtracking
+└── greedy_approach.py        # Implementação com Algoritmo Guloso
+```
+## Contribuições
+
+Contribuições são sempre bem-vindas! Se você tem alguma sugestão para melhorar este projeto, sinta-se à vontade para criar um *fork* do repositório e enviar um *pull request*.
+
+1.  Faça um *fork* do projeto.
+2.  Crie uma nova *branch* (`git checkout -b feature/NovaFuncionalidade`).
+3.  Faça o *commit* de suas alterações (`git commit -m 'Adiciona NovaFuncionalidade'`).
+4.  Faça o *push* para a *branch* (`git push origin feature/NovaFuncionalidade`).
+5.  Abra um *Pull Request*.
+
+## Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
